@@ -1,0 +1,17 @@
+<XML>
+	<Events>
+		<event_id>ev-001</event_id>
+		<event_name>Birthday</event_name>
+		<event_date>01/01/2025</event_date>
+	</Events>
+	<Events>
+		<event_id>ev-002</event_id>
+		<event_name>Anniversary</event_name>
+		<event_date>02/02/2025</event_date>
+	</Events>
+	<Events>
+		<event_id>ev-003</event_id>
+		<event_name>Party</event_name>
+		<event_date>03/03/2025</event_date>
+	</Events>
+</XML>

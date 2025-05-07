@@ -1,0 +1,8 @@
+<!DOCTYPE login SYSTEM "default.dtd">
+<login>
+<default> 10</default>
+<designed by> Gopikrishnan </designed by> 
+</login>
+<!ELEMENT login (default, designed by)>
+<!ELEMENT default (#PCDATA)>
+<!ELEMENT designed by (#PCDATA)>

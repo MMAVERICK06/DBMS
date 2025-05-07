@@ -1,0 +1,7 @@
+<!DOCTYPE Event_detail[
+		<!ELEMENT Event_deatil(Events)>
+		<!ELEMENT Events (event_id,event_name,event_date)>
+		<!ELEMENT event_id (#PCDATA)>
+		<!ELEMENT event_name (#PCDATA)>
+		<!ELEMENT event_date (#PCDATA)>
+]>
